@@ -1,10 +1,17 @@
 # LoveGIF
 
-![Project Logo](logo.png)
+<div style="text-align:center">
+  <img src="logo.png" alt="lovegif">
+</div>
 
 [English Version](README.md) | [中文版](README_CN.md)
 
 LoveGIF is a powerful tool for handling GIF animations, designed to provide users with comprehensive solutions for creating, editing, and optimizing GIFs. Whether you want to create new GIF animations or edit and optimize existing ones, LoveGIF has you covered.
+
+<div style="text-align:center">
+  <img src="page_index.jpeg" alt="lovegif">
+</div>
+
 
 ## Project Website
 
