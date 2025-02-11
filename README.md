@@ -1,8 +1,8 @@
 # LoveGIF
 
-![Project Logo](path/to/logo.png)
+![Project Logo](logo.png)
 
-[English Version](README_EN.md) | [中文版](README.md)
+[English Version](README.md) | [中文版](README_CN.md)
 
 LoveGIF is a powerful tool for handling GIF animations, designed to provide users with comprehensive solutions for creating, editing, and optimizing GIFs. Whether you want to create new GIF animations or edit and optimize existing ones, LoveGIF has you covered.
 

@@ -2,7 +2,7 @@
 
 ![项目Logo](logo.png)
 
-[English Version](README_EN.md) | [中文版](README.md)
+[English Version](README.md) | [中文版](README_CN.md)
 
 LoveGIF 是一个功能强大的 GIF 动画处理工具，旨在为用户提供全面的 GIF 创建、编辑和优化解决方案。无论您是想制作新的 GIF 动画，还是对现有的 GIF 进行编辑和优化，LoveGIF 都能满足您的需求。
 
